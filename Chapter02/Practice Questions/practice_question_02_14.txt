@@ -1,0 +1,7 @@
+14. If you had a function named bacon() inside a module named spam, how would you call it after importing spam?
+
+This depends on how the module spam was imported. There are two ways how this is done:
+    1. import spam 
+       spam.beacon()
+    2. from spam import *
+       beacon()

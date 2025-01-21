@@ -1,0 +1,5 @@
+3. Name three data types.
+
+1. Integers
+2. Floating-points
+3. Strings

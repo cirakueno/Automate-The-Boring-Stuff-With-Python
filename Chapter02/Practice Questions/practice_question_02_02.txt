@@ -1,0 +1,6 @@
+2. What are the three Boolean operators?
+
+The three Boolean operators are:
+    1. and
+    2. or 
+    3. not

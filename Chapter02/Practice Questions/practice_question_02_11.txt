@@ -1,0 +1,4 @@
+11. What is the difference between break and continue?
+
+'break' exits from the current loop and continues to the statement right after the loop.
+'continue' goes to the end of a loop, skipping any statements in between, and the loop condition is evaluated again.

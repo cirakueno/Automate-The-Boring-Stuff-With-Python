@@ -1,0 +1,4 @@
+8. Why is eggs a valid variable name while 100 is invalid?
+
+eggs contains only letters so it is valid.
+100 starts with a number so it is invalid.

@@ -1,0 +1,3 @@
+5. This chapter introduced assignment statements, like spam = 10. What is the difference between an expression and a statement?
+
+The difference is that an expression evaluates to a single value, while a statement is a line of code that performs an action.

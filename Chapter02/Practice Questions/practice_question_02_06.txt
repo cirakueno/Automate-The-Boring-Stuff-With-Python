@@ -1,0 +1,6 @@
+6. What is the difference between the equal to operator and the assignment operator?
+
+The assignment operator has the following form: variable = expression
+It assigns the value of the right expression to the variable on the left. It changes (if it had prior value) or initializes the value the variable.
+The equal to operator has the following form: left_value == right_value
+This operator checks if the two expressions are equal or not and produces a Boolean value of True if they are equal or False if they are not equal.

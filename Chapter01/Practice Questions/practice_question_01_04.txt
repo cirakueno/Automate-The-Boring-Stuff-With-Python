@@ -1,0 +1,3 @@
+4. What is an expression made up of? What do all expressions do?
+
+An expression is made up of values and operators. All expressions evaluate to a single value.

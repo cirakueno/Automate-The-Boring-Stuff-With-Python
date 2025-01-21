@@ -1,0 +1,9 @@
+5. What are the six comparison operators?
+
+The six comparison operators are:
+    1. >
+    2. >=
+    3. <
+    4. <=
+    5. ==
+    6. !=

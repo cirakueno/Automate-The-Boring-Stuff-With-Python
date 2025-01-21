@@ -1,0 +1,9 @@
+1. Which of the following are operators, and which are values?
+
+*           -> Operator
+'hello'     -> Value
+-88.8       -> Value
+-           -> Operator
+/           -> Operator
++           -> Operator
+5           -> Value
